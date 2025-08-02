@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **eng.saniyatabssum@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://shorturl.at/aAoPu)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IEbbcaFHzKOXatIA2hG8pw6NmpMRM2M1/view?usp=drive_link)
 
 - ⚡ Fun fact **I talk to my code like it’s a person—and yes, it still ignores me.**
 
