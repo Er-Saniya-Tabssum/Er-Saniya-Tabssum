@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **eng.saniyatabssum@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/MBNd6](https://shorturl.at/MBNd6)
+- 📄 Know about my experiences [Resume](https://shorturl.at/aAoPu)
 
 - ⚡ Fun fact **I talk to my code like it’s a person—and yes, it still ignores me.**
 
