@@ -22,17 +22,7 @@
 - ⚡ Fun fact **I talk to my code like it's a person—and yes, it still ignores me!**
 
 <h3 align="left">Let's Connect:</h3>
-<!-- <p align="center">
-  <a href="https://linkedin.com/in/saniya-tabssum" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:eng.saniyatabssum@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://leetcode.com/saniya_tabssum/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-</p> -->
+
 <p align="left">
 <a href="https://linkedin.com/in/saniya-tabssum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saniya-tabssum" height="30" width="40" /></a>
 <a href="https://leetcode.com/saniya_tabssum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saniya_tabssum" height="30" width="40" /></a>
@@ -78,7 +68,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=er-saniya-tabssum&label=Profile%20Views&color=7B68EE&style=for-the-badge" alt="Profile Views" />
 </p>
-
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=100&section=footer" width="100%"/>
-</div> -->
