@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **eng.saniyatabssum@gmail.com**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1Q96gEHolFV5jowqZZcqGwyTEQ4w552IO/view?usp=sharing)
+
 
 - ⚡ Fun fact **I talk to my code like it's a person—and yes, it still ignores me!**
 
